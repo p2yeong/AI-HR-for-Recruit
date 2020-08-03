@@ -2,7 +2,7 @@
 Self-introduction analysis project using machine learning
 *(Organization and re-implementation of projects that were conducted in the field)*
 
-## Project purpose
+## purpose
 
 - The artificial intelligence self-introduction evaluation analyzes the self-introduction statement and supports the selection of talents that meet the company's recruitment standards.
 - It saves time and cost for reviewing documents, and minimizes deviations caused by differences in propensity among evaluators, allowing fair evaluation.
