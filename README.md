@@ -16,6 +16,7 @@ Furthermore, it seeks social values ​​that contribute to creating a society 
 A qualitative evaluation of self-introduction is conducted by using the sentence data evaluation model using training data and classifiers extracted in sentence units.
 
 
+
 # AI-HR-for-Recruit
 머신러닝을 활용한 자기소개서 분석 프로젝트
 *(현업에서 진행했던 프로젝트 정리 및 재구현)*
